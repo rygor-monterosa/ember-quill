@@ -7,8 +7,7 @@ module.exports = {
     nodeAssets: {
       quill: {
         import: [
-          "dist/quill.min.js",
-          "dist/quill.min.js.map",
+          "dist/quill.js",
           "dist/quill.snow.css"
         ]
       }
