@@ -52,7 +52,7 @@
     "ember-cli-babel": "^5.1.7",
     "ember-cli-htmlbars": "^1.1.1",
     "ember-cli-node-assets": "^0.1.4",
-    "quill": "git+ssh://github.com/rygor-monterosa/quill.git#a904e73"
+    "quill": "https://git@github.com/rygor-monterosa/quill.git#a904e73"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
